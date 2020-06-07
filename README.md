@@ -40,11 +40,11 @@
 		<img src="images/chua75.jpg" alt="Amy Chua photo">
 	</main>
 	<footer>
-		<p>&copy;Arun Sandhu IS117 A15 HW</p>
+		<p>&copy;Arun Sandhu IS117 A15 SO THIS IS AN EXAMPLE HW</p>
 	</footer>
   Name : Arun Sandhu
   Date : 4/20/20
-  SO THIS IS AN EXAMPLE
+ 
   </footer>
 </body>
 </html>
